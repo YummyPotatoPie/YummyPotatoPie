@@ -1,7 +1,6 @@
-<h1 align="center">Sup I am YummyPotatoPie</h1>
-<h3 align="center">A programmer who enjoys building compilers and analyzing code</h3>
+# Sup I am YummyPotatoPie
+### A programmer who enjoys building compilers and analyzing code
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yummypotatopie&theme=onedark" alt="yummypotatopie" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
